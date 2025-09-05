@@ -13,7 +13,7 @@ public class Cellule {
     }
     @Override
     public String toString() {
-        //return vivante ? "NON" : "OUI";
+        //return life ? "N" : "Y";
         return life ? "⬛" : "⬜";
     }
 }
