@@ -31,3 +31,10 @@ javac Cellule.java Grid.java JeuDeLaVie.java
 
 # Exécution
 java JeuDeLaVie
+```
+### LES SORTIES EN IMAGE
+![GENERATION1](img/gen.png)
+![GENERATION1](img/gen2.png)
+![GENERATION1](img/gen3.png)
+![GENERATION1](img/gen4.png)
+![GENERATION1](img/gen5.png)
